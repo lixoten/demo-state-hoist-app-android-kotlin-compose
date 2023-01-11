@@ -6,4 +6,4 @@ Simple app to demonstrate State Hoisting
 
 ![](screenshot.gif)
 
-ref: demo-hoist-app-android-kotlin-compose
+ref: demo-state-hoist-app-android-kotlin-compose
